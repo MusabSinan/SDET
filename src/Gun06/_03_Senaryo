@@ -1,0 +1,8 @@
+1- https://www.etsy.com/ sitesine gidiniz.
+2- Sırasıyla aşağıdaki menu itemlerine gidiniz.
+   Jewellery
+   Necklaces
+   Bib Necklaces
+
+3-En son item e tıklatınız.
+4-URL de Bib kelimesinin geçtiğini Assert ile doğrulayınız.
